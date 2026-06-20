@@ -1,4 +1,4 @@
 # demo.java
 This is my first git repository
 <br>
-author -- prince mandal
+author -- prince mandal (apna College)
